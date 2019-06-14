@@ -1,5 +1,4 @@
-# Homework 1: Kickstart My Chart
-# Kickstart Campaign Analysis
+# Homework 1: Kickstart Campaign Analysis
 
 In this repository, an analysis of Kickstart launched campaign data is conducted  to determine what are common characteristics and factors that make a campaign successful at crowd funding. The excel document consists of  raw data of 4,114 campaigns that were launched 2009 to early 2017.  Pivot tables and charts were utilized to better understand the relationships to what makes a campaign successful.
 
